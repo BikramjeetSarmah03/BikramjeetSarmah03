@@ -10,11 +10,11 @@
 	/>
 </div>
 
-### Languages & Tools:
+<!-- ### Languages & Tools:
 
 <hr/>
 ### Find Me On
 
 <hr/>
 ### My Projects:
-    <p>Check the pinned repositories below. 👇
+    <p>Check the pinned repositories below. 👇 -->
