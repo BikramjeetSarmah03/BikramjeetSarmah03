@@ -2,15 +2,18 @@
 ### Hi there 👋, I'm Bikramjeet Sarmah
 <hr>
 
-<h2> I'm Web developer from India, currently specialising in React and its ecosystem </h2>
+<h2> I am a developer from India, currently specialising in Web Developement</h2>
 
-<div>
+<!-- <div>
 	<img
  	 	src="https://github-readme-stats.vercel.app/api?username=BikramjeetSarmah03&show_icons=true&theme=radical"
 	/>
+	<img
+	     src="https://github-readme-stats.vercel.app/api/top-langs/?username=BikramjeetSarmah03&layout=compact"
+	/>
 </div>
 
-<hr>
+<hr> -->
 
 ### Languages & Tools:
  
@@ -91,7 +94,4 @@
     </a>	
 </div>
 <hr/>
-
-### My Projects:
-   
-   Check the pinned repositories below. 👇 
+ 
