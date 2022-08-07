@@ -87,7 +87,7 @@
     src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
     />
     </a>	
-    <a href="instagram.com/bikram_jeet_sarmah/" target="_blank">
+    <a href="https://www.instagram.com/bikram_jeet_sarmah/" target="_blank">
     <img
     src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     />
