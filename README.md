@@ -67,12 +67,15 @@
         <img
         src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
         />
-    </a>	
- 	<a href="https://mui.com/" target="_blank">
-        <img
-        src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"
-        />
-    </a>	
+    </a>
+	
+<a href="https://www.mongodb.com/" target="_blank">
+<img
+src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+/>
+</a>
+ 	
+	
 	
 </div>
 
