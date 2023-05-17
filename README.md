@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm Bikramjeet Sarmah
 <hr>
 
-<h2> I am a developer from India, currently specialising in Web Developement</h2>
+<h2>Full Stack MERN developer based on Assam who loves to learn new stuff everyday and loves to build.</h2>
 
 <!-- <div>
 	<img
